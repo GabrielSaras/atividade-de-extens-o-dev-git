@@ -6,3 +6,5 @@ Integrante 2:
 Integrante 3:
 Integrante 4:
 Integrante 5:
+---------
+Tecnologias Utilizadas:
