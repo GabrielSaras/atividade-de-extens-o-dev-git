@@ -7,4 +7,4 @@ Integrante 3:Gabriel Saras Pereira
 Integrante 4:Lion Patrocínio Cunha Costa
 Integrante 5:Nicoli Gonçalves
 ---------
-Tecnologias Utilizadas:
+Tecnologias Utilizadas:HTML, CSS, JavaScript 
