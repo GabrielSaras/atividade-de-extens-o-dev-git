@@ -120,6 +120,12 @@ body {
     grid-template-columns: 1fr;
   }
 
+@media (max-width: 1024px) {
+  .nav-menu {
+    gap: 15px;
+  }
+}
+
   .nav-menu {
     flex-direction: column;
     gap: 10px;
