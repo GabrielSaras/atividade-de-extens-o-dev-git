@@ -87,15 +87,14 @@ body {
   margin-top: 10px;
   padding: 10px 15px;
   border: none;
-  background: #0a6b37;
+  background: #ff6600; /* antes era verde  */
   color: white;
   font-weight: bold;
   cursor: pointer;
   border-radius: 6px;
 }
-
 .buy-btn:hover {
-  background: #088a45;
+  background: #e65c00; /* cor mais escura no hover pra destacar */
 }
 
 /* > RODAPÉ < */
