@@ -1,0 +1,13 @@
+Uma branch funciona como se você criasse uma cópia separada do seu
+trabalho principal para poder desenvolver novas ideias, testar mudanças
+ou experimentar algo diferente sem correr o risco de estragar o que já
+está pronto. É como pegar uma folha nova para rascunhar uma melhoria,
+enquanto a versão original continua guardada e intocada. Assim, você tem
+liberdade para errar, ajustar e refazer o que quiser.
+
+Já o merge é o processo de unir tudo o que você fez nessa cópia com o
+trabalho principal. É como quando você termina um rascunho e decide
+passar o resultado final para o documento oficial, juntando tudo de
+forma organizada para que o projeto continue evoluindo. Esse passo
+garante que suas melhorias, correções ou novidades façam parte do todo,
+mantendo tudo atualizado e funcionando em conjunto.
