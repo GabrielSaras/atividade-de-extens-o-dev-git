@@ -49,6 +49,10 @@ body {
   font-weight: bold;
 }
 
+.nav-menu :hover {
+  color: #2E8B57;
+}
+
 .search {
   padding: 6px 8px;
   border: 1px solid #ccc;
