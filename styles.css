@@ -54,6 +54,7 @@ body {
 }
 
 .search {
+  margin: 5px 1px;
   padding: 6px 8px;
   border: 1px solid #ccc;
   border-radius: 4px;
